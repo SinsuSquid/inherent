@@ -1,9 +1,12 @@
 # Custom .gitinore
-*trajectories*
+trajectories/
+test/
 *.lammpstrj
 *.out
 *lammps*
 *.log
+*.png
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
